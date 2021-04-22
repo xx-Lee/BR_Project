@@ -94,6 +94,11 @@ void CardMain()
 		menu = MENU_CARD_WITHDRAW;
 		SetDisplayMsg(MSG_CARD_WITHDRAW);
 	}
+	else if (operationInput[0] == 'c')
+	{
+		menu = MENU_INIT;
+		SetDisplayMsg(MSG_INIT);
+	}
 	else
 	{
 		SetDisplayMsg(MSG_CARD_MAIN_ERR);
