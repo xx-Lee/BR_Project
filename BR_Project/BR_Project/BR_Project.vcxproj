@@ -126,6 +126,7 @@
     <ClInclude Include="defineATM.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ATM.cpp" />
     <ClCompile Include="Bank.cpp" />
     <ClCompile Include="display.cpp" />
     <ClCompile Include="main.cpp" />

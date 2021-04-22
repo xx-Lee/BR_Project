@@ -1,6 +1,5 @@
 #include <string>
 #include <iostream>
-
 #include "defineATM.h"
 
 using namespace std;
@@ -55,7 +54,7 @@ void SetDisplayMsg(int no)
 		break;
 	case MSG_CARD_MAIN_ERR:
 		displayMsg = "**************************************************\r\n";
-		displayMsg += "ERROR - Enter only 1 or 2 or 3\r\n";
+		displayMsg += "ERROR - Enter only '1' or '2' or '3' or 'c'\r\n";
 		displayMsg += "1 - Show Your Balance\r\n";
 		displayMsg += "2 - Deposit\r\n";
 		displayMsg += "3 - Withdraw\r\n";
