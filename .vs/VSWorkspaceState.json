@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BR_Project",
+    "\\BR_Project\\BR_Project"
   ],
+  "SelectedNode": "\\BR_Project\\BR_Project\\display.cpp",
   "PreviewInSolutionExplorer": false
 }

@@ -166,16 +166,10 @@ void processMenu()
 	}
 }
 
-
 void processOperation()
 {
 	cin >> operationInput;
 }
-
-
-
-
-
 
 int main() {
 	SetDisplayMsg(MSG_INIT);
