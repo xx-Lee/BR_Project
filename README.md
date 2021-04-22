@@ -6,7 +6,7 @@ Abstract: <br>
  - There is no special settings <br>
  - CMD-based program <br>
  - Initial balance is $10 <br>
- - Deposits and withdrawals are limited to only $1 <br>
+ - Deposit and withdrawal are limited to only $1 <br>
  - Enter lowercase 'c' for card insertion and removal <br>
  - Refer to ERROR in case of malfunction <br>
  - The correct pin number is fixed at 1234, please enter 1234 <br>
